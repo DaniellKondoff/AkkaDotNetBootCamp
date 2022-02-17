@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinTail", "WinTail\WinTail.csproj", "{F085EEA9-8ADD-4B89-9956-A83FEB38928E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F085EEA9-8ADD-4B89-9956-A83FEB38928E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F085EEA9-8ADD-4B89-9956-A83FEB38928E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F085EEA9-8ADD-4B89-9956-A83FEB38928E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F085EEA9-8ADD-4B89-9956-A83FEB38928E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09833A02-2970-4B2E-B23E-FBD7F8421B31}
+	EndGlobalSection
+EndGlobal

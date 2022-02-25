@@ -6,3 +6,5 @@
 /AkkaDotNet/WinTail/bin/Debug/netcoreapp3.1
 /AkkaDotNet/.vs/AkkaDotNet
 /.vs
+/AkkaDotNet/ChartApp/obj
+/AkkaDotNet/ChartApp/bin/Debug/netcoreapp3.1

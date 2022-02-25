@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinTail", "WinTail\WinTail.csproj", "{F085EEA9-8ADD-4B89-9956-A83FEB38928E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinTail", "WinTail\WinTail.csproj", "{F085EEA9-8ADD-4B89-9956-A83FEB38928E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChartApp", "ChartApp\ChartApp.csproj", "{4D351032-8DA2-404B-9AAA-8ABA9DDAB22B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F085EEA9-8ADD-4B89-9956-A83FEB38928E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F085EEA9-8ADD-4B89-9956-A83FEB38928E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F085EEA9-8ADD-4B89-9956-A83FEB38928E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D351032-8DA2-404B-9AAA-8ABA9DDAB22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D351032-8DA2-404B-9AAA-8ABA9DDAB22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D351032-8DA2-404B-9AAA-8ABA9DDAB22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D351032-8DA2-404B-9AAA-8ABA9DDAB22B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
